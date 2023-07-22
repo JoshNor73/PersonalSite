@@ -21,6 +21,7 @@ h4 {
   color: aliceblue;
   background-image: url(TitleBG.png);
   letter-spacing: 4px;  /*try 5*/
+  word-spacing: 4px;
 }
 
 .Me {
