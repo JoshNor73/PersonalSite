@@ -1,0 +1,58 @@
+body {
+  background-color: black;
+}
+
+h1 { 
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+  
+}
+
+h4 {
+  font-family: sans-serif;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 753px;
+  color: aliceblue;
+  background-image: url(TitleBG.png);
+  letter-spacing: 4px;  /*try 5*/
+}
+
+.Me {
+  border-radius: 50%;
+}
+
+.cursed {
+  background-color: white;
+}
+
+.aboutMe {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  color: aliceblue;
+  padding-bottom: 54px;
+  background-image: url(BaseBG.png);
+}
+
+#abtM{
+  display: block;
+  padding-left: 62px;
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.footer {
+  background-color: rgb(108, 117, 125);
+  color: aliceblue;
+}
